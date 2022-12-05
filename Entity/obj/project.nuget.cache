@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "LJlbY+mDWj2EMJ7Qb1sCfJQNd4NYfB6dImcOLHGKwYKi+EIFLYknhsBfdQtJvIQCYoqhLrIJ2dCWUltSvEe/0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\Document\\Entity\\Entity.csproj",
+=======
+  "dgSpecHash": "rYwLT2XaQuqMaaxAMlli/QZJk2JFRpSWOMk0zMYPC2dEK9xK8xPEPt6fYqX0aa0bFJLGrJ/F/ioI9jiWAV871A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\OneDrive\\Documents\\.Net\\week-9-10-grp-c\\Entity\\Entity.csproj",
+>>>>>>> 094634090d4ab5772abf66553abc9f332b01b926
+  "expectedPackageFiles": [],
+  "logs": []
+}
